@@ -1,0 +1,16 @@
+/* NEVERLAND MIRRORS
+STYLESHEET FOR MIRROR SELECTION SITE
+*/
+
+.main{background-color: black;color:white}
+div.title{font-size: 169%;font-family: 'Ubuntu', sans-serif;text-align: center;}
+div.subtitle{font-size: 120%;font-family: 'Ubuntu', sans-serif;text-align: center;}
+.invisible{font-size:0.3cm}
+table, th, td {
+    border:1px solid whitesmoke;
+    font-family: 'Ubuntu';
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+a{color:white}
